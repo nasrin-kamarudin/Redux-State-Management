@@ -43,7 +43,6 @@ const BreDecision = () => {
     >
       <CustomAccordion
         title="BRE Decision"
-        chip={<Badge label="STD" variant="Low" />}
       >
         <Box
           sx={{
