@@ -21,8 +21,12 @@ const ExpandAllLink: React.FC<ExpandAllLinkProps> = ({
       sx={{
         display: "flex",
         justifyContent: "flex-end",
-        mb: 2,
+        mt: 2,
+        ml: 5,
+        mr: 12,
+        mb: 0,
         pr: 1,
+        width: "100%",
       }}
     >
       <MuiLink
